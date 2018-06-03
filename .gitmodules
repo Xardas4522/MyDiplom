@@ -1,0 +1,6 @@
+[submodule "Diplom"]
+	path = Diplom
+	url = https://github.com/Xardas4522/Diplom.git
+[submodule "squeezedet-keras"]
+	path = squeezedet-keras
+	url = https://github.com/omni-us/squeezedet-keras.git
